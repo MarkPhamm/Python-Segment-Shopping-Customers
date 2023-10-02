@@ -1,4 +1,5 @@
 # Customer Segmentation Using Python
+![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/dbb73f27-a345-4c37-974c-2104d0ce1985)
 
 ## Introduction
 
@@ -10,6 +11,16 @@ This project performs customer segmentation on mall customer data to identify th
 
 The marketing team wants to identify the most important customer segments to better target marketing activities. The boss has requested an ideal number of segments labeled with a name for each one.
 
+## Technology Used
+- **Language**: Python
+
+- **Libraries**:
+  - Pandas
+  - Seaborn
+  - Matplotlib.pyplot
+  - Mumpy
+  - Sklearn.cluster KMeans
+  
 ## Approach
 
 The following approach was taken:
@@ -33,20 +44,11 @@ The following approach was taken:
   - Validated clustering performance
   - Assessed cluster distinctiveness
 
-## Technology Used
-
-- **Language**: Python
-
-- **Libraries**:
-  - Pandas
-  - Seaborn
-  - Matplotlib.pyplot
-  - Mumpy
-  - Sklearn.cluster KMeans
+![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/1328661f-b6f5-4f13-aa48-f479fbc9aee9)
 
 ## Key Insights
 
-- 3 clusters provided the ideal segmentation based on the elbow plot
+- 5 clusters provided the ideal segmentation based on the elbow plot
 - The clusters showed clear separation based on income, age, and shopping score
 - Cluster names were assigned based on distinguishing characteristics
 - Visualizations provided additional validation of cluster uniqueness
