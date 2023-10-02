@@ -49,7 +49,7 @@ The following approach was taken:
 ## Key Insights
 
 - 5 clusters provided the ideal segmentation based on the elbow plot
-- The clusters showed clear separation based on income, age, and shopping score
+- The clusters showed clear separation based on income and shopping score
 - Cluster names were assigned based on distinguishing characteristics
 - Visualizations provided additional validation of cluster uniqueness
 
