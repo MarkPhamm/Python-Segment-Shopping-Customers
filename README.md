@@ -47,8 +47,6 @@ The following approach was taken:
 
 ![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/1328661f-b6f5-4f13-aa48-f479fbc9aee9)
 
-
-
 ## Key Learning
 
 - Understanding the importance of choosing the optimal number of clusters for effective segmentation.
