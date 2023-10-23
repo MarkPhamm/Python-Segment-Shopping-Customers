@@ -1,4 +1,5 @@
 # Customer Segmentation Using Python
+
 ![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/dbb73f27-a345-4c37-974c-2104d0ce1985)
 
 ## Introduction
@@ -18,9 +19,9 @@ The marketing team wants to identify the most important customer segments to bet
   - Pandas
   - Seaborn
   - Matplotlib.pyplot
-  - Mumpy
+  - Numpy
   - Sklearn.cluster KMeans
-  
+
 ## Approach
 
 The following approach was taken:
@@ -46,8 +47,23 @@ The following approach was taken:
 
 ![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/1328661f-b6f5-4f13-aa48-f479fbc9aee9)
 
-## Key Insights
 
+
+## Key Learning
+
+- Understanding the importance of choosing the optimal number of clusters for effective segmentation.
+- Implementing preprocessing techniques such as feature scaling to ensure accurate clustering results.
+- Utilizing the elbow method to determine the appropriate number of clusters for the K-Means algorithm.
+- Assigning meaningful cluster names based on key differentiators for effective interpretation and communication of results.
+
+## Key Struggles
+
+- Managing outliers and their potential impact on clustering accuracy.
+- Balancing computational resources with the need for comprehensive data exploration and analysis.
+- Interpreting complex data distributions and identifying appropriate preprocessing techniques for accurate insights.
+- Addressing potential data inconsistencies and their implications on the final segmentation outcomes.
+
+## Key Insights
 - 5 clusters provided the ideal segmentation based on the elbow plot
 - The clusters showed clear separation based on income and shopping score
 - Cluster names were assigned based on distinguishing characteristics
